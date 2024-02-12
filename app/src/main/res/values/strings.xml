@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="title">CST2335 Lab 4</string>
+    <string name="type_here">Type here</string>
+    <string name="urgent">Urgent</string>
+    <string name="add">ADD</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="title">CST2335 Laboratoire 4</string>
+    <string name="type_here">Écrivez ici</string>
+    <string name="urgent">Urgente</string>
+    <string name="add">AJOUTER</string>
+</resources>
