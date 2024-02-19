@@ -63,6 +63,8 @@ public class TodoItemAdapter extends BaseAdapter {
             textViewTodo.setTextColor(Color.BLACK);
         }
 
+
+
         return view;
     }
 
